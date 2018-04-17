@@ -1,6 +1,6 @@
 {
   "name": "to.cachedimageview",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple module to have ImageViews in Titanium with configurable cache time",
   "main": "to.cachedimageview.js",
   "scripts": {

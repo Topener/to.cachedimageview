@@ -1,0 +1,28 @@
+{
+  "name": "to.cachedimageview",
+  "version": "0.1.0",
+  "description": "A simple module to have ImageViews in Titanium with configurable cache time",
+  "main": "to.cachedimageview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Topener/to.cachedimageview.git"
+  },
+  "keywords": [
+    "titanium",
+    "titanium-module",
+    "commonjs",
+    "appcelerator"
+  ],
+  "author": "Rene Pot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Topener/to.cachedimageview/issues"
+  },
+  "homepage": "https://github.com/Topener/to.cachedimageview#readme",
+  "dependencies": {
+    "to.imagecache": "^1.0.0"
+  }
+}
